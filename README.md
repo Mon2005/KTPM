@@ -22,9 +22,10 @@ Bài tập yêu cầu quan sát và nhận diện các vấn đề liên quan đ
 
 ### Kết quả đạt được
 - Điểm số : 8130
-- Xếp hạng : Master (Hoàn hảo)
+- Xếp hạng : Master (Hoàn hảo!)
 - Thời gian hoàn thành : 00:13:58
-Kết quả cho thấy khả năng quan sát và nhận diện lỗi giao diện ở mức tốt so với đa số người tham gia.
+
+Kết quả cho thấy khả năng quan sát và nhận diện lỗi giao diện ở mức xuất sắc so với đa số người tham gia.
 
 ### Minh chứng hoàn thành
 Ảnh chụp màn hình kết quả sau khi hoàn thành bài tập:
