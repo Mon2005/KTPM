@@ -47,3 +47,13 @@ Thông qua bài tập này,em:
 - Rèn luyện tư duy chi tiết và khả năng đánh giá trải nghiệm người dùng
 
 Bài tập có tính thực tiễn cao, hỗ trợ tốt cho việc học **Kiểm thử phần mềm**. 
+
+### Cam kết 
+
+Em xin cam kết rằng kết quả trên là do **chính em thực hiện**, không sao chép và không sử dụng bất kỳ hình thức gian lận nào.
+
+**Sinh viên thực hiện**
+Nguyễn Đức Anh 
+
+---
+# Bài tập tuần 2 (12/01/2026 - 18/01/2026): Kiểm thử với JUnit (khung kiểm thử Java)
