@@ -21,9 +21,9 @@ Bài tập yêu cầu quan sát và nhận diện các vấn đề liên quan đ
 🔗 Liên kết bài tập: https://cantunsee.space (trang web của trò chơi)
 
 ### Kết quả đạt được
-- Điểm số :
-- Xếp hạng :
-- Thời gian hoàn thành :
+- Điểm số : 8130
+- Xếp hạng : Master (Hoàn hảo)
+- Thời gian hoàn thành : 00:13:58
 Kết quả cho thấy khả năng quan sát và nhận diện lỗi giao diện ở mức tốt so với đa số người tham gia.
 
 ### Minh chứng hoàn thành
