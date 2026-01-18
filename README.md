@@ -182,8 +182,7 @@ java -jar "%JUNIT_JAR%" -cp unit-test/out --scan-class-path
 ```
 
 ### 6.4. Tuỳ chọn: chạy khi đang ở thư mục unit-test
-Nếu bạn ```markdown
-`cd unit-test` trước, có thể dùng lệnh ngắn gọn:
+Nếu bạn `cd unit-test` trước, có thể dùng lệnh ngắn gọn:
 
 Ví dụ trên Windows (PowerShell - terminal của VS Code/Windows):
 ```powershell
