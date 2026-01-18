@@ -143,25 +143,30 @@ Các nhóm tình huống đã kiểm thử trong `StudentAnalyzerTest`:
 Ví dụ trên Windows (PowerShell - terminal của VS Code/Windows):
 ```powershell
 $env:JUNIT_JAR="D:\junit-platform-console-standalone-6.0.2.jar"
+```
 
 Ví dụ trên CMD (Command Prompt):
 ```cmd
 set JUNIT_JAR=D:\junit-platform-console-standalone-6.0.2.jar
+```
 
 ### 6.2. Biên dịch
 Tại thư mục gốc của kho mã nguồn (chứa thư mục `unit-test/`), tạo thư mục đầu ra nếu chưa có:
 ```bash
 mkdir unit-test/out
+```
 
 Biên dịch mã nguồn và tệp kiểm thử:
 
 Ví dụ trên Windows (PowerShell - terminal của VS Code/Windows):
 ```powershell
 javac -cp "$env:JUNIT_JAR" -d unit-test\out unit-test\src\StudentAnalyzer.java unit-test\test\StudentAnalyzerTest.java
+```
 
 Ví dụ trên CMD (Command Prompt):
 ```cmd
 javac -cp "%JUNIT_JAR%" -d unit-test/out unit-test/src/StudentAnalyzer.java unit-test/test/StudentAnalyzerTest.java
+```
 
 ### 6.3. Chạy kiểm thử 
 Chạy bảng điều khiển JUnit để quét classpath (đường dẫn chứa class) và thực thi kiểm thử:
@@ -169,10 +174,12 @@ Chạy bảng điều khiển JUnit để quét classpath (đường dẫn chứ
 Ví dụ trên Windows (PowerShell - terminal của VS Code/Windows):
 ```powershell
 java -jar "$env:JUNIT_JAR" -cp unit-test\out --scan-class-path
+```
 
 Ví dụ trên CMD (Command Prompt):
 ```cmd
 java -jar "%JUNIT_JAR%" -cp unit-test/out --scan-class-path
+```
 
 ### 6.4. Tuỳ chọn: chạy khi đang ở thư mục unit-test
 Nếu bạn ```markdown
@@ -182,11 +189,13 @@ Ví dụ trên Windows (PowerShell - terminal của VS Code/Windows):
 ```powershell
 javac -cp "$env:JUNIT_JAR" -d out src\StudentAnalyzer.java test\StudentAnalyzerTest.java
 java -jar "$env:JUNIT_JAR" -cp out --scan-class-path
+```
 
 Ví dụ trên CMD (Command Prompt):
 ```cmd
 javac -cp "%JUNIT_JAR%" -d out src/StudentAnalyzer.java test/StudentAnalyzerTest.java
 java -jar "%JUNIT_JAR%" -cp out --scan-class-path
+```
 
 ### 6.5. Kỳ vọng khi chạy
 - Toàn bộ kiểm thử trong StudentAnalyzerTest hiển thị trạng thái PASSED (thành công theo thông báo của JUnit).
