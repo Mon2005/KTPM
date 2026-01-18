@@ -90,7 +90,7 @@ Chương trình bao gồm lớp `StudentAnalyzer` với 2 chức năng chính:
 - ✅ Thực hành khai thác AI tạo sinh để hỗ trợ lập trình (gợi ý test case, rà soát logic).
 
 ### 3. Cấu trúc thư mục
-
+```text
 KTPM/
 ├── unit-test/
 │   ├── src/
@@ -98,6 +98,7 @@ KTPM/
 │   └── test/
 │       └── StudentAnalyzerTest.java  # Mã nguồn kiểm thử
 └── README.md                         # Tài liệu báo cáo (File này)
+```
 
 ### 4. Mô tả chức năng chi tiết
 * **Điều kiện chung**: Mọi giá trị nằm ngoài đoạn `[0, 10]` hoặc là `null` đều bị bỏ qua (skip).
