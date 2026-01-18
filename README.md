@@ -91,7 +91,6 @@ Chương trình bao gồm lớp `StudentAnalyzer` với 2 chức năng chính:
 
 ### 3. Cấu trúc thư mục
 
-```text
 KTPM/
 ├── unit-test/
 │   ├── src/
