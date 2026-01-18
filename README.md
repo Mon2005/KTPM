@@ -173,12 +173,12 @@ Chạy bảng điều khiển JUnit để quét classpath (đường dẫn chứ
 
 Ví dụ trên Windows (PowerShell - terminal của VS Code/Windows):
 ```powershell
-java -jar "$env:JUNIT_JAR" -cp unit-test\out --scan-class-path
+java -jar "$env:JUNIT_JAR" execute --class-path unit-test\out --scan-class-path
 ```
 
 Ví dụ trên CMD (Command Prompt):
 ```cmd
-java -jar "%JUNIT_JAR%" -cp unit-test/out --scan-class-path
+java -jar "%JUNIT_JAR%" execute --class-path unit-test\out --scan-class-path
 ```
 
 ### 6.4. Tuỳ chọn: chạy khi đang ở thư mục unit-test
@@ -187,13 +187,13 @@ Nếu bạn `cd unit-test` trước, có thể dùng lệnh ngắn gọn:
 Ví dụ trên Windows (PowerShell - terminal của VS Code/Windows):
 ```powershell
 javac -cp "$env:JUNIT_JAR" -d out src\StudentAnalyzer.java test\StudentAnalyzerTest.java
-java -jar "$env:JUNIT_JAR" -cp out --scan-class-path
+java -jar "$env:JUNIT_JAR" execute --class-path out --scan-class-path
 ```
 
 Ví dụ trên CMD (Command Prompt):
 ```cmd
 javac -cp "%JUNIT_JAR%" -d out src/StudentAnalyzer.java test/StudentAnalyzerTest.java
-java -jar "%JUNIT_JAR%" -cp out --scan-class-path
+java -jar "%JUNIT_JAR%" execute --class-path out --scan-class-path
 ```
 
 ### 6.5. Kỳ vọng khi chạy
