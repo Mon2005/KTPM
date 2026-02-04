@@ -439,7 +439,9 @@ Giải thích các tham số:
 - Summary Report TG2: ![Summary TG2](jmeter/img/jmeter2.png)
 - Summary Report TG3: ![Summary TG3](jmeter/img/jmeter3.png)
 - View Results Tree (mẫu request): ![View Results Tree](jmeter/img/jmeter4.png)
-- Runner tổng quan/phiên bản: ![Runner Overview 1](jmeter/img/jmeter5.png) ![Runner Overview 2](jmeter/img/jmeter6.png) ![Runner Overview 3](jmeter/img/jmeter7.png)
+- Runner tổng quan/phiên bản: ![Runner Overview 1](jmeter/img/jmeter5.png)
+![Runner Overview 2](jmeter/img/jmeter6.png)
+![Runner Overview 3](jmeter/img/jmeter7.png)
 
 ### 12. Nhận xét và đánh giá
 
