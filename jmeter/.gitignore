@@ -1,0 +1,12 @@
+# JMeter outputs
+*.jtl
+*.csv
+results/
+report/
+
+# Logs
+jmeter.log
+jmeter-server.log
+
+# Screenshots (optional)
+# *.png
