@@ -231,3 +231,8 @@ Test run finished after 214 ms
 [         0 tests aborted         ]
 [         8 tests successful      ]
 [         0 tests failed          ]
+
+---
+# Bài tập tuần 3 (19/01/2026 - 25/01/2026): Kiểm thử tự động End-to-End với Cypress
+### Minh chứng hoàn thành
+
