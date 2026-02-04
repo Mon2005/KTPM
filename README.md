@@ -236,7 +236,6 @@ Test run finished after 214 ms
 # Bài tập tuần 3 (19/01/2026 - 25/01/2026): Kiểm thử tự động End-to-End với Cypress
 ### Minh chứng hoàn thành
 <img width="1498" height="998" alt="Cypress1" src="https://github.com/user-attachments/assets/2e1f9647-0a43-4b3d-8875-df23029a8a70" />
-<img width="1478" height="996" alt="Cypress2" src="https://github.com/user-attachments/assets/8af6e5c9-9e52-4bc8-8985-92af9eef8e40" />
 <img width="1488" height="1001" alt="Cypress3" src="https://github.com/user-attachments/assets/58124ae2-e67b-4797-a68e-1014b836567e" />
 <img width="1487" height="995" alt="Cypress4" src="https://github.com/user-attachments/assets/efd695c7-09a9-4d8c-8e77-560ca8f9cbb9" />
 <img width="1920" height="1080" alt="Cypress5" src="https://github.com/user-attachments/assets/a6882a4d-6bdf-4ee3-a64a-b800918150d3" />
